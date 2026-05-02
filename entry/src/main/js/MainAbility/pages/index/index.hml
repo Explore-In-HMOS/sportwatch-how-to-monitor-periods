@@ -1,0 +1,10 @@
+<div class="container"
+     style="background-color: {{ color }};"
+     onclick="nextDay"
+     onlongpress="resetCycle">
+    <text class="title">{{ label }}</text>
+    <text class="day">Day {{ cycleDay }}</text>
+    <text class="progress">%{{ progress }}</text>
+    <text class="hint">Tap → Next Day</text>
+    <text class="hint">Hold → Reset</text>
+</div>
