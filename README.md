@@ -1,7 +1,7 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How To Monitor Periods
-A lightweight wearable-friendly period tracking codelab built for Huawei Lite Wearable devices.  
+A lightweight wearable-friendly period tracking codelab built for Huawei SportWatch devices.  
 Designed to demonstrate cycle calculation, phase detection, and simple persistent storage logic
 
 # Preview
